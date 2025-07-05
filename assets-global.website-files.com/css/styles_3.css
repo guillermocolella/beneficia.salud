@@ -300,22 +300,22 @@ a {
 
 /* Slide 1 background */
 #hero .swiper-slide:nth-child(1) {
-    background-image: linear-gradient(to top, #222 1%, rgba(34, 34, 34, 0)), url('/assets-global.website-files.com/pediatria%202.png');
+    background-image: linear-gradient(to top, #222 1%, rgba(34, 34, 34, 0)), url('assets-global.website-files.com/pediatria%202.png');
 }
 
 
 /* Slide 2 background */
 #hero .swiper-slide:nth-child(2) {
-    background-image: linear-gradient(to top, #222 1%, rgba(34, 34, 34, 0)), url('/assets-global.website-files.com/Musicoterapia.jpg');
+    background-image: linear-gradient(to top, #222 1%, rgba(34, 34, 34, 0)), url('assets-global.website-files.com/Musicoterapia.jpg');
 }
 
 /* Slide 3 background */
 #hero .swiper-slide:nth-child(3) {
-    background-image: linear-gradient(to top, #222 1%, rgba(34, 34, 34, 0)), url('/assets-global.website-files.com/an_argentinian_professional_woman_driver_sitting.jpeg');
+    background-image: linear-gradient(to top, #222 1%, rgba(34, 34, 34, 0)), url('assets-global.website-files.com/an_argentinian_professional_woman_driver_sitting.jpeg');
 }
 /* Slide 4 background */
 #hero .swiper-slide:nth-child(4) {
-    background-image: linear-gradient(to top, #222 1%, rgba(34, 34, 34, 0)), url('/assets-global.website-files.com/Internacion\ domiciliaria-slide.jpg');
+    background-image: linear-gradient(to top, #222 1%, rgba(34, 34, 34, 0)), url('assets-global.website-files.com/Internacion\ domiciliaria-slide.jpg');
 }
 .swiper-pagination-bullet-active {
     opacity: var(--swiper-pagination-bullet-opacity, 1);
@@ -412,7 +412,7 @@ a {
 /* Style for Swiper navigation buttons */
 
 .swiper-button-next {
-    background-image: url('/assets-global.website-files.com/65d52dbda484ac7d95f29914_icons8-adelante-50.png');
+    background-image: url('assets-global.website-files.com/65d52dbda484ac7d95f29914_icons8-adelante-50.png');
     /* Replace with the path to your next arrow image */
     background-size: contain;
     /* Ensure the image fits within the button */
@@ -434,7 +434,7 @@ a {
 
 /* Custom styles for the previous button */
 .swiper-button-prev {
-    background-image: url('/assets-global.website-files.com/65d52dbda484ac7d95f29914_icons8-atras50.png');
+    background-image: url('assets-global.website-files.com/65d52dbda484ac7d95f29914_icons8-atras50.png');
     /* Replace with the path to your previous arrow image */
     background-size: contain;
     /* Ensure the image fits within the button */
@@ -575,43 +575,43 @@ a {
 
 .slide2 {
 
-    background-image: url(/assets-global.website-files.com/sanidad.png);
+    background-image: url(assets-global.website-files.com/sanidad.png);
 
 }
 
 .slide3 {
 
-    background-image: url(/assets-global.website-files.com/swiss-medical.jpg);
+    background-image: url(assets-global.website-files.com/swiss-medical.jpg);
 
 }
 
 .slide4 {
 
-    background-image: url(/assets-global.website-files.com/661eea9362861e2492895828_Osde.png);
+    background-image: url(assets-global.website-files.com/661eea9362861e2492895828_Osde.png);
 
 }
 
 .slide5 {
-    background-image: url(/assets-global.website-files.com/661eeae992c2200af9d465d3_os-galeno-logo.png);
+    background-image: url(assets-global.website-files.com/661eeae992c2200af9d465d3_os-galeno-logo.png);
 
 }
 
 .slide6 {
-    background-image: url(/assets-global.website-files.com/sancor\ salud\ logo.png);
+    background-image: url(assets-global.website-files.com/sancor\ salud\ logo.png);
 }
 
 .slide7 {
-    background-image: url(/assets-global.website-files.com/661edee0343eaae47300757b_medife.png);
+    background-image: url(assets-global.website-files.com/661edee0343eaae47300757b_medife.png);
 
 }
 
 .slide8 {
-    background-image: url(/assets-global.website-files.com/ospe\ logo.png);
+    background-image: url(assets-global.website-files.com/ospe\ logo.png);
 
 }
 
 .slide-2 {
-    background-image: url(/assets-global.website-files.com/661ee9d89b96f51e59adc7b2_logo-omint-contentful.png);
+    background-image: url(assets-global.website-files.com/661ee9d89b96f51e59adc7b2_logo-omint-contentful.png);
 
 }
 
@@ -701,7 +701,7 @@ a {
 }
 
 .col-left {
-    background-image: url(/assets-global.website-files.com/pediatria.jpg);
+    background-image: url(assets-global.website-files.com/pediatria.jpg);
     background-position: 28%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -887,7 +887,7 @@ a {
 
 /* Habla con alguien */
 .safe-section {
-    background-image: linear-gradient(to bottom, rgba(34, 34, 34, .17), #222), url(/assets-global.website-files.com/hablar\ con\ alguien.jpg);
+    background-image: linear-gradient(to bottom, rgba(34, 34, 34, .17), #222), url(assets-global.website-files.com/hablar\ con\ alguien.jpg);
     background-position: 0 0, 50%;
     background-size: auto, cover;
     min-height: 550px;
@@ -1744,7 +1744,7 @@ input.w-button {
     }
 
     .col-left {
-        background-image: url(/assets-global.website-files.com/pediatria.jpg);
+        background-image: url(assets-global.website-files.com/pediatria.jpg);
         background-position: 13%;
         background-repeat: repeat;
         background-size: cover;
@@ -1834,7 +1834,7 @@ input.w-button {
 
     /* Hablar con alguien */
     .safe-section {
-        background-image: linear-gradient(to bottom, rgba(34, 34, 34, .17), #222), url(/assets-global.website-files.com/hablar2.jpg);
+        background-image: linear-gradient(to bottom, rgba(34, 34, 34, .17), #222), url(assets-global.website-files.com/hablar2.jpg);
         background-position: 0 0, 50%;
         background-size: auto, 100%;
         background-repeat: no-repeat;
@@ -2410,24 +2410,24 @@ input.w-button {
     }
 
     #hero .swiper-slide:nth-child(1) {
-        background-image: linear-gradient(to top, #222 1%, rgba(34, 34, 34, 0)), url('/assets-global.website-files.com/pediatria-movil.jpg');
+        background-image: linear-gradient(to top, #222 1%, rgba(34, 34, 34, 0)), url('assets-global.website-files.com/pediatria-movil.jpg');
         background-size: cover;
         background-position: center;
     }
 
     #hero .swiper-slide:nth-child(2) {
-        background-image: linear-gradient(to top, #222 1%, rgba(34, 34, 34, 0)), url('/assets-global.website-files.com/musicoterapia_movil.jpg');
+        background-image: linear-gradient(to top, #222 1%, rgba(34, 34, 34, 0)), url('assets-global.website-files.com/musicoterapia_movil.jpg');
         background-size: cover;
         background-position: center;
     }
 
     #hero .swiper-slide:nth-child(3) {
-        background-image: linear-gradient(to top, #222 1%, rgba(34, 34, 34, 0)), url('/assets-global.website-files.com/transporte_movil.jpeg');
+        background-image: linear-gradient(to top, #222 1%, rgba(34, 34, 34, 0)), url('assets-global.website-files.com/transporte_movil.jpeg');
         background-size: cover;
         background-position: center;
     }
     #hero .swiper-slide:nth-child(4) {
-        background-image: linear-gradient(to top, #222 1%, rgba(34, 34, 34, 0)), url('/assets-global.website-files.com/internacion_movil.jpeg');
+        background-image: linear-gradient(to top, #222 1%, rgba(34, 34, 34, 0)), url('assets-global.website-files.com/internacion_movil.jpeg');
         background-size: cover;
         background-position: center;
     }
@@ -2580,7 +2580,7 @@ input.w-button {
     }
 /* Hablar con alguien */
     .safe-section {
-        background-image: linear-gradient(to bottom, rgba(34, 34, 34, .17), #222), url(/assets-global.website-files.com/hablar2.jpg);
+        background-image: linear-gradient(to bottom, rgba(34, 34, 34, .17), #222), url(assets-global.website-files.com/hablar2.jpg);
     background-size: auto, cover;
     background-position: -610px 0;
     min-height: 280px;
