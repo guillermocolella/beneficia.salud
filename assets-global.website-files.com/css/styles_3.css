@@ -311,7 +311,7 @@ a {
 
 /* Slide 3 background */
 #hero .swiper-slide:nth-child(3) {
-    background-image: linear-gradient(to top, #222 1%, rgba(34, 34, 34, 0)), url('assets-global.website-files.com/an_argentinian_professional_woman_driver_sitting.jpeg');
+    background-image: linear-gradient(to top, #222 1%, rgba(34, 34, 34, 0)), url("assets-global.website-files.com/an_argentinian_professional_woman_driver_sitting.jpeg");
 }
 /* Slide 4 background */
 #hero .swiper-slide:nth-child(4) {
