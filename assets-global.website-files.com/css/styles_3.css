@@ -300,7 +300,7 @@ a {
 
 /* Slide 1 background */
 #hero .swiper-slide:nth-child(1) {
-    background-image: linear-gradient(to top, #222 1%, rgba(34, 34, 34, 0)), url('/pediatria%202.png');
+    background-image: linear-gradient(to top, #222 1%, rgba(34, 34, 34, 0)), url('../pediatria%202.png');
 }
 
 
